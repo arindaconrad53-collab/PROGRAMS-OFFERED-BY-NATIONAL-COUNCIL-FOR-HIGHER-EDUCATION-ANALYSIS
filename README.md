@@ -12,6 +12,10 @@
 - This project analyses different **programs** offered by the **National Council for Higher Education**. The goal is to analyze different programs offered in different learning institutions, courses that are due to be in need of Review, Review trend, accreditation trend and program levels
 - The project harnesses **Microsoft Excel** for data preparation and transformation, and **Power BI** for analysis and building an interactive dashboard that enables users to explore different programs in different institutions. This project serves as a living tool for monitoring courses that are bound to be in need of Review, **Active** and courses that are still **Under Review** useful for stakeholders, policy makers and the general public.
 
+ *For non Microsoft Users if you have an account*
+- [View Dashboard]()
+
+*For Microsoft users*
 [View Dashboard](https://app.powerbi.com/links/beul4qDLQz?ctid=726e1e29-80eb-414f-9ab8-b54bbe42db22&pbi_source=linkShare)
 
 
@@ -81,7 +85,7 @@ To derive meaningful insights from the data, I performed various calculations us
 -	1,965 Programs are offered in different institutions of higher learning.  
 -	Out of the 1,965 Programs offered in different institutions, 90.33% are **Active** whereas 9.67% are still **Under Review** .  
 -	Of the 1,965 Programs are offered in different institutions of higher learning, 721 are at **Bachelors level**, 558 at **Diploma level**, 490 at **Masters level** and 132 at **Phd level**.  
--	There are 205 institutions of higher learning 82 being **Universities**, 36 **Colleges**, 57 **Institute, 2 **Training Centers** and the 28 categorized in others.  
+-	There are 205 institutions of higher learning 82 being **Universities**, 36 **Colleges**, 57 **Institutes**, 2 **Training Centers** and the 28 categorized in others.  
 -	Of the 205 institutions, **Kampala** has the highest number of institutions(70) followed by  **Wakiso** with 15 and **Luwero** having 8.  
 -	**Makerere University** offers the highest number of programs (266) both at Diploma, Bachelors, Masters and PhD level.
 -	**Kampala International University** is the second institution with a high number of courses (182) being the leading private University with the highest number of programs compared to others.  
