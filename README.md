@@ -13,7 +13,7 @@
 - The project harnesses **Microsoft Excel** for data preparation and transformation, and **Power BI** for analysis and building an interactive dashboard that enables users to explore different programs in different institutions. This project serves as a living tool for monitoring courses that are bound to be in need of Review, **Active** and courses that are still **Under Review** useful for stakeholders, policy makers and the general public.
 
  *For non Microsoft Users who dont have an account*  
-- [View Dashboard](https://github.com/arindaconrad53-collab/PROGRAMS-OFFERED-BY-NATIONAL-COUNCIL-FOR-HIGHER-EDUCATION-ANALYSIS/edit/main/NATIONAL%20COUNCIL%20DASHBOARD.pdf)
+ [View Dashboard](https://github.com/arindaconrad53-collab/PROGRAMS-OFFERED-BY-NATIONAL-COUNCIL-FOR-HIGHER-EDUCATION-ANALYSIS/raw/d6825421cc36931ab8926bb5d81eb781070e1c09/NATIONAL%20COUNCIL%20DASHBOARD.pdf)
 
 *For Microsoft users who  have an account*  
 [View Dashboard](https://app.powerbi.com/links/beul4qDLQz?ctid=726e1e29-80eb-414f-9ab8-b54bbe42db22&pbi_source=linkShare)
