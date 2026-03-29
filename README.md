@@ -12,16 +12,16 @@
 - This project analyses different **programs** offered by the **National Council for Higher Education**. The goal is to analyze different programs offered in different learning institutions, courses that are due to be in need of Review, Review trend, accreditation trend and program levels
 - The project harnesses **Microsoft Excel** for data preparation and transformation, and **Power BI** for analysis and building an interactive dashboard that enables users to explore different programs in different institutions. This project serves as a living tool for monitoring courses that are bound to be in need of Review, **Active** and courses that are still **Under Review** useful for stakeholders, policy makers and the general public.
 
- *For non Microsoft Users if you have an account*
-- [View Dashboard]()
+ *For non Microsoft Users who dont have an account*  
+- [View Dashboard](https://github.com/arindaconrad53-collab/PROGRAMS-OFFERED-BY-NATIONAL-COUNCIL-FOR-HIGHER-EDUCATION-ANALYSIS/edit/main/NATIONAL%20COUNCIL%20DASHBOARD.pdf)
 
-*For Microsoft users*
+*For Microsoft users who  have an account*  
 [View Dashboard](https://app.powerbi.com/links/beul4qDLQz?ctid=726e1e29-80eb-414f-9ab8-b54bbe42db22&pbi_source=linkShare)
 
 
 ## Data source
  - A CSV file showing different **Programs**, **Institution Names**, **District**, **Accreditation Date**, **Expiry Date** and **Status** was downloaded from the National Council for Higher Education website. [Download here](https://unche.or.ug/all-academic-programs/)
- - A pdf containing the same data was also extracted from the same website to ensure **Consistency**and **Validity**. [Download here](https://unche.or.ug/all-academic-programs/)
+ - A pdf containing the same data was also extracted from the same website to ensure **Consistency** and **Validity**. [Download here](https://unche.or.ug/all-academic-programs/)
 
 ## Tools used
 - Excel - Data extraction & preparation
