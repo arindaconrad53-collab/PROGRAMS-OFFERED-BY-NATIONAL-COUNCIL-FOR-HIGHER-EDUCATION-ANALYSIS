@@ -12,7 +12,7 @@
 - This project analyses different **programs** offered by the **National Council for Higher Education**. The goal is to analyze different programs offered in different learning institutions, courses that are due to expire, expiry trend, accreditation trend and program levels
 - The project harnesses **Microsoft Excel** for data preparation and transformation, and **Power BI** for analysis and building interactive dashboards that enable users to explore different programs in different institutions. This project serves as a living tool for monitoring courses that are bound to expire, **Active** and courses that are still **Under Review useful for stakeholders, policy makers and the general public.
 
-[view Dashboard]()
+[view Dashboard](https://app.powerbi.com/onelake/details/me/dataset/12b7a57d-627d-434b-8342-e9377a7dfe5d/overview?experience=power-bi)
 
 
 ## Data source
