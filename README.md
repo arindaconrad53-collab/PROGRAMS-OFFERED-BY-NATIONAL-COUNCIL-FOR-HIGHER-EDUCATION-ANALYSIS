@@ -3,7 +3,7 @@
 [Project Overview](#project-overview)  
 [Data Source](#data-source)  
 [Tools Used](#tools-used)  
-[Data Cleaning & Preparation](#data-cleaning&preparation)    
+[Data Cleaning](#data-cleaning)    
 [Explanatory Data Analysis](#explanatory-data-analysis)    
 [Data Analysis](#data-analysis)   
 [Analysis Results](#analysis-results)    
@@ -29,7 +29,7 @@
 - Excel - Data extraction & preparation
 - Power BI - Data Analysis, Reports & Visualization
 
-## Data Cleaning & Preparation.
+## Data Cleaning.
 In this initial preparation stage, we performed the following tasks;
 - Extracted data from tables in PDF files using  power query
 - Loaded the CSV file into power query
