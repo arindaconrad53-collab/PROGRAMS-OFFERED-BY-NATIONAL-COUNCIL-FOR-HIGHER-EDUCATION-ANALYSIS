@@ -3,14 +3,16 @@
 [Project Overview](#project-overview)  
 [Data Source](#data-source)  
 [Tools Used](#tools-used)  
-[Data Cleaning & Preparation](#data-cleaning&preparation)  
-[Explanatory Data Analysis](#explanatory-data-analysis)  
-[Data Analysis](#data-analysis)  
-[Analysis Results](#analysis-results)  
+[Data Cleaning & Preparation](#data-cleaning&preparation)    
+[Explanatory Data Analysis](#explanatory-data-analysis)    
+[Data Analysis](#data-analysis)   
+[Analysis Results](#analysis-results)    
 
 ## Project Overview
 - This project analyses different **programs** offered by the **National Council for Higher Education**. The goal is to analyze different programs offered in different learning institutions, courses that are due to be in need of Review, Review trend, accreditation trend and program levels
 - The project harnesses **Microsoft Excel** for data preparation and transformation, and **Power BI** for analysis and building an interactive dashboard that enables users to explore different programs in different institutions. This project serves as a living tool for monitoring courses that are bound to be in need of Review, **Active** and courses that are still **Under Review** useful for stakeholders, policy makers and the general public.
+
+  ##### N.B: **The Expiry Date variable in the dataset is interpreted as Scheduled Review Period for academic programs rather than Actual Expiration since programs are typically renewed rather than terminated**
 
  *For non Microsoft Users who dont have an account*  
  [View Dashboard](https://github.com/arindaconrad53-collab/PROGRAMS-OFFERED-BY-NATIONAL-COUNCIL-FOR-HIGHER-EDUCATION-ANALYSIS/raw/d6825421cc36931ab8926bb5d81eb781070e1c09/NATIONAL%20COUNCIL%20DASHBOARD.pdf)
